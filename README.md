@@ -1,2 +1,0 @@
-# PortisWallet
-Created with CodeSandbox
